@@ -1,0 +1,16 @@
+{
+    "name": "j-o-the-wisp/proj",
+    "authors": [
+        {
+            "name": "John Widowecky",
+            "email": "jobwer@gmail.com"
+        }
+    ],
+    "require": { },
+
+    "autoload": {
+        "psr-4": {
+            "Filmmaking\\": "src/Filmmaking"
+        }
+    }
+}

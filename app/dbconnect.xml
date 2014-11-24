@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<connection>
+    <hostname>localhost</hostname>
+    <username>root</username>
+    <password>zoob</password>
+    <database>filmmaking</database>
+</connection>

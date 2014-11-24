@@ -1,0 +1,10 @@
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP Warning:  require(../Resources/view/layout.php): failed to open stream: No such file or directory in /var/www/mov/src/Filmmaking/GenerateHtml.php on line 22
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/index.php:0
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->studiosAction() /var/www/mov/web/index.php:8
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:12
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP Fatal error:  require(): Failed opening required '../Resources/view/layout.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/mov/src/Filmmaking/GenerateHtml.php on line 22
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/index.php:0
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->studiosAction() /var/www/mov/web/index.php:8
+[Mon Nov 24 22:10:19 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:12
