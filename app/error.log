@@ -1304,3 +1304,65 @@
 [Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
 [Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
 [Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 15:46:24 2014] [error] [client 127.0.0.1] PHP Fatal error:  Using $this when not in object context in /var/www/mov/web/actorsstudios.php on line 2, referer: http://mov.com/
+[Thu Nov 27 15:46:24 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 15:46:24 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 15:50:43 2014] [error] [client 127.0.0.1] PHP Fatal error:  Using $this when not in object context in /var/www/mov/web/actorsstudios.php on line 2, referer: http://mov.com/
+[Thu Nov 27 15:50:43 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 15:50:43 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in /var/www/mov/web/actors.php on line 6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   3. Filmmaking\\GenerateHtml->generatePage() /var/www/mov/src/Filmmaking/Controller.php:25, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   4. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:22, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   5. Filmmaking\\GenerateHtml->getContent() /var/www/mov/src/Resources/view/layout.php:46, referer: http://mov.com/
+[Thu Nov 27 16:04:34 2014] [error] [client 127.0.0.1] PHP   6. require() /var/www/mov/src/Filmmaking/GenerateHtml.php:29, referer: http://mov.com/

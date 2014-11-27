@@ -16,12 +16,15 @@ class Controller {
     {
         $data = new Database();
         $actorsStudios = $data->getActorsStudios();
-        if (isset($_POST) && sizeof($_POST) > 0) {
+        $studioId = $_POST['studioId'];
             foreach ($actorsStudios as $actorStudio) {
-                if ($_POST['studioId'] == $actorStudio['id']) {
-                    echo $actorStudio['Actor'];
+                if ($studioId == $actorStudio['id']) {
+                    $view = new GenerateHtml("../src/Resources/view/layout.php");
+                    $view->generatePage("actors.php", array('studioId' => $studioId,
+                                                            'actorsStudios' => $actorsStudios,
+                    ));
                 }
             }
-        }
+
     }
 }

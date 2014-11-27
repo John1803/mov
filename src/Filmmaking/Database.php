@@ -49,7 +49,7 @@ class Database {
                         ORDER BY filmstudios.title");
         $database->execute();
 
-        return $database;
+        return $database->fetchAll();
 
     }
 
