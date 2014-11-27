@@ -21,7 +21,7 @@ class Controller {
                 if ($studioId == $actorStudio['id']) {
                     $view = new GenerateHtml("../src/Resources/view/layout.php");
                     $view->generatePage("../src/Resources/view/actors.php", array('studioId' => $studioId,
-                                                            'actorsStudios' => $actorsStudios,
+                                                                                  'actorsStudios' => $actorsStudios,
                     ));
                 }
             }
