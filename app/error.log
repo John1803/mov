@@ -440,3 +440,867 @@
 [Thu Nov 27 12:25:07 2014] [error] [client 127.0.0.1] script '/var/www/mov/web/actorsstudios.php' not found or unable to stat, referer: http://mov.com/
 [Thu Nov 27 12:25:36 2014] [error] [client 127.0.0.1] script '/var/www/mov/web/actorsstudios.php' not found or unable to stat, referer: http://mov.com/
 [Thu Nov 27 12:25:53 2014] [error] [client 127.0.0.1] File does not exist: /var/www/mov/web/var, referer: http://mov.com/
+[Thu Nov 27 14:37:00 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:01 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:37:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:38:08 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:40:34 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:41:40 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Notice:  Undefined index: studioId in /var/www/mov/src/Filmmaking/Controller.php on line 21, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   1. {main}() /var/www/mov/web/actorsstudios.php:0, referer: http://mov.com/
+[Thu Nov 27 14:42:44 2014] [error] [client 127.0.0.1] PHP   2. Filmmaking\\Controller->actorsStudiosAction() /var/www/mov/web/actorsstudios.php:6, referer: http://mov.com/
