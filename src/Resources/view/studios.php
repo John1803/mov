@@ -1,6 +1,6 @@
 
 <?php $studios=$this->studios; ?>
-<form action="actorsstudios.php" method="post">
+<form action="/actorsstudios" method="post">
     <p><select class="bootstrap-select btn" name="studioId">
             <option disabled>Chose the studio</option>
             <?php foreach ($studios as $studioTitle): ?>

@@ -20,7 +20,7 @@ class Controller {
             foreach ($actorsStudios as $actorStudio) {
                 if ($studioId == $actorStudio['id']) {
                     $view = new GenerateHtml("../src/Resources/view/layout.php");
-                    $view->generatePage("actors.php", array('studioId' => $studioId,
+                    $view->generatePage("../src/Resources/view/actors.php", array('studioId' => $studioId,
                                                             'actorsStudios' => $actorsStudios,
                     ));
                 }
