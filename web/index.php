@@ -1,9 +1,14 @@
 <?php
-require "../vendor/autoload.php";
-//require "../src/Resources/view/studios.php";
-use Filmmaking\Database;
-use Filmmaking\GenerateHtml;
+require '../vendor/autoload.php';
 
-$controller = new \Filmmaking\Controller();
-$controller->studiosAction();
+use Filmmaking\Controller;
+
+$uri = $_SERVER['REQUEST_URI'];
+
+if ('/' == $uri) {
+    $controller = new Controller();
+    $controller->studiosAction();
+}
+
+
 

@@ -1,7 +1,7 @@
 
 <?php $studios=$this->studios; ?>
-<form action="controller.php" method="post">
-    <p><select multiple name="studioTitle">
+<form action="../../../web/actorsstudios.php" method="post">
+    <p><select name="studioId">
             <option disabled>Chose the studio</option>
             <?php foreach ($studios as $studioTitle): ?>
     <option value="<?php echo $studioTitle['fid'] ?>"><?php echo $studioTitle['ftitle'] ?></option>

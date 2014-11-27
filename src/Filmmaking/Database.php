@@ -10,7 +10,8 @@ class Database {
     private $databaseName;
     private $connection;
 
-    public function __construct() {
+    public function __construct()
+    {
         $connectionParams = simplexml_load_file("/var/www/mov/app/dbconnect.xml");
         $this->host = $connectionParams->hostname;
         $this->user = $connectionParams->username;
@@ -24,7 +25,6 @@ class Database {
         catch (\PDOException $e) {
             echo 'Conection failed: ' . $e->getMessage();
         }
-
     }
 
     public function getStudios() {
@@ -33,12 +33,13 @@ class Database {
                         FROM filmstudios AS f
                         ORDER BY fid");
         $database->execute();
-        return $database->fetchAll();
+        return $database;
 
     }
-    public function getStudiosActors () {
+    public function getActorsStudios()
+    {
         $database = $this->connection
-            ->prepare("SELECT filmstudios.title AS FILMSTUDIO, CONCAT_WS( ' ', actors.name, actors.surname ) AS 'Actor', COUNT( movies.id ) AS 'Number of movies'
+            ->prepare("SELECT filmstudios.id, filmstudios.title AS FILMSTUDIO, CONCAT_WS( ' ', actors.name, actors.surname ) AS 'Actor', COUNT( movies.id ) AS 'Number of movies'
                         FROM filmstudios
                         JOIN filmstudios_movies ON filmstudios.id = filmstudios_movies.filmstudio_id
                         JOIN movies ON movies.id = filmstudios_movies.movie_id
@@ -48,7 +49,7 @@ class Database {
                         ORDER BY filmstudios.title");
         $database->execute();
 
-        return $database->fetchAll();
+        return $database;
 
     }
 
