@@ -4,6 +4,13 @@ namespace Filmmaking;
 
 class Controller {
 
+    public function actorsFeesAction() {
+        $data = new Database();
+        $actorsFees = $data->getActorsFees();
+        $view = new GenerateHtml("../src/Resources/view/layout.php");
+        $view->generatePage("../src/Resources/view/actorsfees.php", array('actorsFees' => $actorsFees));
+    }
+
     public function studiosAction()
     {
         $data = new Database();
@@ -14,17 +21,14 @@ class Controller {
 
     public function actorsStudiosAction ()
     {
-        $data = new Database();
-        $actorsStudios = $data->getActorsStudios();
-        $studioId = $_POST['studioId'];
-            foreach ($actorsStudios as $actorStudio) {
-                if ($studioId == $actorStudio['id']) {
-                    $view = new GenerateHtml("../src/Resources/view/layout.php");
-                    $view->generatePage("../src/Resources/view/actors.php", array('studioId' => $studioId,
-                                                                                  'actorsStudios' => $actorsStudios,
-                    ));
-                }
-            }
-
+        if (isset($_POST) && sizeof($_POST) > 0) {
+            $data = new Database();
+            $actorsStudios = $data->getActorsStudios();
+            $studioId = $_POST['studioId'];
+            $view = new GenerateHtml("../src/Resources/view/layout.php");
+            $view->generatePage("../src/Resources/view/actors.php", array('studioId' => $studioId,
+                                                                            'actorsStudios' => $actorsStudios,
+            ));
+        }
     }
 }

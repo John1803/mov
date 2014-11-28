@@ -36,6 +36,19 @@ class Database {
         return $database;
 
     }
+
+    public function getActorsFees() {
+        $database = $this->connection
+            ->prepare("SELECT	CONCAT_WS(  ' ', actors.name, actors.surname ) AS Actor,
+	                            SUM( fee ) AS Fees
+	                   FROM actors
+                       JOIN movies_actors ON actors.id = movies_actors.actor_id
+                       WHERE ( YEAR( CURDATE( ) ) - YEAR( birthday ) ) - ( RIGHT( CURDATE( ) , 5 ) < RIGHT( birthday, 5 ) )  BETWEEN 40  AND 60
+                       GROUP BY actors.name");
+        $database->execute();
+        return $database;
+    }
+
     public function getActorsStudios()
     {
         $database = $this->connection
@@ -51,6 +64,11 @@ class Database {
 
         return $database->fetchAll();
 
+    }
+
+    public function __destruct()
+    {
+        $this->connection = null;
     }
 
 } 
